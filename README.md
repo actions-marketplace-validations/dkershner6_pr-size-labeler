@@ -1,3 +1,5 @@
+This is exactly the same as CodelyTV's version, but with file ignoring as well. Full credit to https://github.com/favmd/pr-size-labeler, I just published it.
+
 <p align="center">
   <a href="http://codely.tv">
     <img alt="CodelyTV logo" src="http://codely.tv/wp-content/uploads/2016/05/cropped-logo-codelyTV.png" width="192px" height="192px"/>
